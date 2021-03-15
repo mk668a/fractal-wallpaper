@@ -1,4 +1,4 @@
-# this project is an experiment using RGBA.js
+# This project is an experiment using RGBA.js
 
 - Purpose: Create desktop wallpaper in html using RGBA.js
 
@@ -12,7 +12,7 @@ url: https://flamboyant-bell-9b724d.netlify.app/
 - project-2: ...
 
 
-## how to set as wallpaper
+## How to set as wallpaper
 e.g.
 - mac: [Plash](https://github.com/sindresorhus/Plash)
 - windows: [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
