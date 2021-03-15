@@ -2,7 +2,7 @@
 
 - Purpose: Create desktop wallpaper in html using RGBA.js
 
-- RGBA.js['https://github.com/strangerintheq/rgba']
+- [RGBA.js](https://github.com/strangerintheq/rgba)
 
 
 ## Project 
@@ -14,5 +14,5 @@ url: https://flamboyant-bell-9b724d.netlify.app/
 
 ## how to set as wallpaper
 e.g.
-- mac: Plash['https://github.com/sindresorhus/Plash']
-- windows: Wallpaper Engine['https://store.steampowered.com/app/431960/Wallpaper_Engine/']
+- mac: [Plash](https://github.com/sindresorhus/Plash)
+- windows: [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/)
